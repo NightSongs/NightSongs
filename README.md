@@ -8,4 +8,4 @@ My research area is forestry remote sensing, The main research interests are sem
 
 E-mail: 916754699@qq.com
 
-I am looking for an internship in image algorithms for the remote sensing industry.
+I am looking for an internship in image algorithms in the remote sensing industry.
