@@ -8,4 +8,4 @@ My research area is forestry remote sensing, The main research interests are sem
 
 E-mail: jiaweijiang@csuft.edu.cn
 
-I am looking for an internship in image algorithms in the remote sensing industry.
+I am about to go to Sun Yat-sen University to study for a Ph.D.
