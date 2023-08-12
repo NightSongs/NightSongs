@@ -1,11 +1,11 @@
 Hi 👋
 
+Graduated school: I graduated from Central South University of Forestry and Technology with a bachelor's degree and a master's degree.
 
-I am a 3rd year master from Central South University of Forestry and Technology, I am conducting my research studies at the Faculty of Forestry.🌳
+Research Direction: My major is forestry remote sensing, and I am mainly engaged in the research of semantic segmentation and change detection.
 
+Study: I am about to pursue a Eng.D. in Civil Engineering at Sun Yat-sen University.😀
 
-My research area is forestry remote sensing, The main research interests are semantic segmentation and change detection.
+Work: I am looking for an internship position related to remote sensing algorithms.😊
 
-E-mail: jiangjw26@mail2.sysu.edu.cn
-
-I am about to pursue a Eng.D. in Civil Engineering at Sun Yat-sen University.
+E-mail: jiangjw26@mail2.sysu.edu.cn; jiaweijiang@csuft.edu.cn
