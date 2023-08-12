@@ -1,4 +1,4 @@
-Hi 👋
+Hi there👋, below is my resume:
 
 Graduated school: I graduated from Central South University of Forestry and Technology with a bachelor's degree and a master's degree.
 
